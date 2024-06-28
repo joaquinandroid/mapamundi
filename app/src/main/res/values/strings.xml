@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MapaMundi</string>
+    <string name="por_pais">Preguntar según el país</string>
+    <string name="por_capital">Preguntar según la capital</string>
+    <string name="inicio">INICIO</string>
+    <string name="continentes">CONTINENTES</string>
+    <string name="europa">EUROPA</string>
+    <string name="america">AMÉRICA</string>
+    <string name="asia">ASIA</string>
+    <string name="oceania">OCEANÍA</string>
+    <string name="africa">ÁFRICA</string>
+    <string name="todos">TODOS</string>
+    <string name="volver">Volver</string>
+    <string name="jugar_denuevo">Jugar de nuevo</string>
+    <string name="preguntando">"¿Capital?</string>
+    <string name="resultados">"RESULTADOS"</string>
+    <string name="resultados_ampliados">"AQUÍ VAN TUS RESULTADOS"</string>
+    <string name="terminar">"TERMINAR"</string>
+
+</resources>
